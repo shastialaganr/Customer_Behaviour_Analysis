@@ -63,7 +63,5 @@ Target high-revenue age groups
 
 🛠️ Tech Stack
 Python (Pandas, Data Cleaning, Feature Engineering)
-
 PostgreSQL (SQL Analysis)
-
 Power BI (Dashboard & Visualization)
