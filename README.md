@@ -61,6 +61,10 @@ Optimize discount strategy
 Highlight top-rated products in marketing
 Target high-revenue age groups
 
+📊Project Presentation:
+To experiment with AI-powered content generation and enhance storytelling, I created a structured presentation using **Gamma AI**.  
+The presentation file is attached in this repository.
+
 🛠️ Tech Stack
 Python (Pandas, Data Cleaning, Feature Engineering)
 PostgreSQL (SQL Analysis)
